@@ -71,7 +71,7 @@ The application uses the following parameters for sentiment analysis:
   - Identify spikes in sentiment over time or across platforms.  
 - **Secure Access**: Google login ensures secure user authentication for app usage.
 
-  ## ER Diagram
+  ## ER Diagram :
    
   
 ![image-Photoroom](https://github.com/user-attachments/assets/21941cea-2beb-41c2-a623-871977307f6e)
