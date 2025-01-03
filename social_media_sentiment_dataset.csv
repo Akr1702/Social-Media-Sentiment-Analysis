@@ -1,0 +1,701 @@
+id,text,platform,country,likes,retweets,sentiment
+1,Would not buy again.,Facebook,UK,2673,1188,negative
+2,"It's okay, nothing special.",Twitter,UK,1362,386,neutral
+3,Could be better.,Instagram,UK,4889,450,neutral
+4,Highly recommend!,Twitter,Australia,1950,1887,positive
+5,Worst experience ever.,Twitter,UK,2856,1811,negative
+6,Highly recommend!,Twitter,USA,2102,955,positive
+7,Would not buy again.,Twitter,Canada,125,820,negative
+8,Outstanding performance!,Facebook,India,1702,2,positive
+9,Would not buy again.,Facebook,UK,1432,130,negative
+10,Outstanding performance!,Facebook,Canada,255,697,positive
+11,Outstanding performance!,Facebook,India,640,880,positive
+12,Totally disappointed with the quality.,Twitter,India,2362,186,negative
+13,Worst experience ever.,Facebook,Canada,974,1199,negative
+14,Highly recommend!,Facebook,India,3764,502,positive
+15,"It's okay, nothing special.",Twitter,USA,3829,363,neutral
+16,Neutral feelings about this.,Facebook,India,4598,405,neutral
+17,"Amazing service, will recommend to everyone!",Instagram,Australia,3843,1854,positive
+18,Fantastic effort by the team!,Facebook,USA,2230,387,positive
+19,Worst experience ever.,Twitter,Canada,1860,704,negative
+20,"It's okay, nothing special.",Instagram,Australia,4250,998,neutral
+21,Could be better.,Twitter,USA,976,940,neutral
+22,Outstanding performance!,Twitter,India,3209,935,positive
+23,Neutral feelings about this.,Twitter,Canada,768,1390,neutral
+24,I love this product!,Facebook,India,168,389,positive
+25,Could be better.,Facebook,Australia,3320,1801,neutral
+26,Could be better.,Twitter,USA,4785,1607,neutral
+27,Totally disappointed with the quality.,Facebook,Canada,4329,39,negative
+28,Worst experience ever.,Instagram,USA,1480,830,negative
+29,Fantastic effort by the team!,Twitter,UK,4162,596,positive
+30,"It's okay, nothing special.",Twitter,UK,3723,1651,neutral
+31,"Amazing service, will recommend to everyone!",Instagram,Australia,3340,1803,positive
+32,"Amazing service, will recommend to everyone!",Twitter,Australia,375,778,positive
+33,Could be better.,Instagram,India,4987,567,neutral
+34,"Amazing service, will recommend to everyone!",Facebook,Australia,4923,1775,positive
+35,Worst experience ever.,Instagram,Australia,1398,1030,negative
+36,Pretty decent for the price.,Instagram,USA,4129,1974,positive
+37,Could be better.,Twitter,India,3964,1513,neutral
+38,Neutral feelings about this.,Instagram,Australia,4644,1400,neutral
+39,I love this product!,Facebook,Australia,2108,334,positive
+40,Totally disappointed with the quality.,Instagram,UK,4844,30,negative
+41,Fantastic effort by the team!,Facebook,Australia,504,1697,positive
+42,I love this product!,Twitter,Canada,2789,679,positive
+43,Worst experience ever.,Facebook,UK,2195,1913,negative
+44,Worst experience ever.,Instagram,UK,297,1638,negative
+45,Pretty decent for the price.,Facebook,UK,2789,1683,positive
+46,Pretty decent for the price.,Twitter,Australia,3633,1739,positive
+47,"It's okay, nothing special.",Twitter,USA,1762,326,neutral
+48,Would not buy again.,Facebook,USA,1919,1062,negative
+49,Worst experience ever.,Facebook,USA,2566,1751,negative
+50,Would not buy again.,Twitter,Australia,3701,1928,negative
+51,Pretty decent for the price.,Facebook,USA,1654,942,positive
+52,I love this product!,Twitter,UK,4765,1383,positive
+53,Would not buy again.,Twitter,Canada,3160,996,negative
+54,"Amazing service, will recommend to everyone!",Instagram,Australia,1345,1096,positive
+55,Neutral feelings about this.,Facebook,Australia,4684,891,neutral
+56,I love this product!,Instagram,Australia,4105,716,positive
+57,Highly recommend!,Twitter,USA,1206,1757,positive
+58,Totally disappointed with the quality.,Twitter,Canada,4444,445,negative
+59,Worst experience ever.,Twitter,UK,3408,1889,negative
+60,"It's okay, nothing special.",Facebook,USA,933,388,neutral
+61,"It's okay, nothing special.",Twitter,Australia,287,14,neutral
+62,"Amazing service, will recommend to everyone!",Instagram,Australia,3256,1604,positive
+63,Totally disappointed with the quality.,Facebook,Australia,1629,50,negative
+64,Pretty decent for the price.,Twitter,Canada,1223,1435,positive
+65,Worst experience ever.,Instagram,USA,2083,805,negative
+66,Totally disappointed with the quality.,Facebook,UK,406,206,negative
+67,Highly recommend!,Twitter,UK,4515,450,positive
+68,I love this product!,Instagram,USA,2338,964,positive
+69,I love this product!,Instagram,India,267,1081,positive
+70,Outstanding performance!,Twitter,Canada,3643,494,positive
+71,Pretty decent for the price.,Instagram,Canada,2414,831,positive
+72,Pretty decent for the price.,Instagram,Australia,4646,1927,positive
+73,Fantastic effort by the team!,Facebook,Australia,1276,995,positive
+74,Outstanding performance!,Twitter,India,3637,1369,positive
+75,"Amazing service, will recommend to everyone!",Instagram,USA,4391,1089,positive
+76,Could be better.,Instagram,India,4696,1090,neutral
+77,Neutral feelings about this.,Twitter,India,763,937,neutral
+78,Pretty decent for the price.,Instagram,UK,4814,705,positive
+79,Outstanding performance!,Instagram,Canada,3231,814,positive
+80,Fantastic effort by the team!,Instagram,Australia,1749,894,positive
+81,Could be better.,Facebook,USA,1816,1615,neutral
+82,"It's okay, nothing special.",Instagram,India,2225,595,neutral
+83,Outstanding performance!,Twitter,Australia,4335,1365,positive
+84,"Amazing service, will recommend to everyone!",Facebook,Australia,4703,1189,positive
+85,Fantastic effort by the team!,Twitter,India,3867,616,positive
+86,"It's okay, nothing special.",Twitter,Canada,1704,1333,neutral
+87,Outstanding performance!,Twitter,UK,2001,259,positive
+88,Pretty decent for the price.,Twitter,UK,2199,1515,positive
+89,Pretty decent for the price.,Twitter,India,4517,1186,positive
+90,I love this product!,Instagram,UK,1529,308,positive
+91,Outstanding performance!,Twitter,UK,2572,836,positive
+92,Worst experience ever.,Twitter,USA,4591,1185,negative
+93,I love this product!,Twitter,India,3587,772,positive
+94,Pretty decent for the price.,Facebook,India,289,1033,positive
+95,Could be better.,Twitter,India,1709,1717,neutral
+96,Highly recommend!,Twitter,USA,3002,1714,positive
+97,Would not buy again.,Instagram,USA,3446,1906,negative
+98,"Amazing service, will recommend to everyone!",Twitter,USA,2217,974,positive
+99,Neutral feelings about this.,Twitter,Australia,929,677,neutral
+100,"It's okay, nothing special.",Instagram,India,3180,1162,neutral
+101,Highly recommend!,Twitter,Australia,3148,1875,positive
+102,Fantastic effort by the team!,Instagram,UK,1473,676,positive
+103,Neutral feelings about this.,Facebook,Australia,2833,299,neutral
+104,Highly recommend!,Instagram,Australia,4851,305,positive
+105,Neutral feelings about this.,Instagram,Australia,517,1747,neutral
+106,Worst experience ever.,Facebook,India,3521,1545,negative
+107,I love this product!,Facebook,India,1558,832,positive
+108,"Amazing service, will recommend to everyone!",Instagram,Canada,1035,1376,positive
+109,Would not buy again.,Facebook,UK,956,310,negative
+110,"It's okay, nothing special.",Twitter,UK,3332,986,neutral
+111,"It's okay, nothing special.",Twitter,USA,598,361,neutral
+112,Worst experience ever.,Instagram,Australia,2266,1502,negative
+113,Would not buy again.,Facebook,USA,291,598,negative
+114,I love this product!,Facebook,USA,3093,207,positive
+115,Outstanding performance!,Instagram,India,122,251,positive
+116,"Amazing service, will recommend to everyone!",Instagram,UK,1592,1972,positive
+117,Outstanding performance!,Twitter,Australia,2882,1591,positive
+118,Neutral feelings about this.,Instagram,USA,1199,1831,neutral
+119,I love this product!,Twitter,USA,2710,840,positive
+120,Outstanding performance!,Twitter,USA,4046,430,positive
+121,Would not buy again.,Instagram,India,2188,257,negative
+122,Totally disappointed with the quality.,Twitter,Canada,2368,1877,negative
+123,"It's okay, nothing special.",Instagram,Canada,845,1523,neutral
+124,"Amazing service, will recommend to everyone!",Instagram,India,2350,1320,positive
+125,Worst experience ever.,Instagram,Canada,3683,1898,negative
+126,Would not buy again.,Facebook,Australia,2324,213,negative
+127,Fantastic effort by the team!,Instagram,USA,788,1117,positive
+128,Totally disappointed with the quality.,Instagram,Canada,4181,344,negative
+129,Fantastic effort by the team!,Twitter,Australia,3805,1087,positive
+130,Would not buy again.,Instagram,Canada,2320,1111,negative
+131,Highly recommend!,Twitter,Australia,1244,1538,positive
+132,Pretty decent for the price.,Instagram,Canada,3365,1991,positive
+133,Pretty decent for the price.,Facebook,UK,1820,941,positive
+134,Could be better.,Instagram,Australia,1899,80,neutral
+135,Highly recommend!,Instagram,India,421,1016,positive
+136,I love this product!,Twitter,USA,2770,467,positive
+137,Neutral feelings about this.,Instagram,UK,3492,342,neutral
+138,"Amazing service, will recommend to everyone!",Twitter,UK,2928,11,positive
+139,Fantastic effort by the team!,Instagram,UK,3262,196,positive
+140,Would not buy again.,Instagram,USA,4213,1966,negative
+141,"It's okay, nothing special.",Facebook,Canada,2241,789,neutral
+142,Worst experience ever.,Instagram,Canada,94,1773,negative
+143,"Amazing service, will recommend to everyone!",Twitter,USA,719,247,positive
+144,"Amazing service, will recommend to everyone!",Twitter,Australia,233,1882,positive
+145,Could be better.,Instagram,Australia,2363,183,neutral
+146,"It's okay, nothing special.",Instagram,Canada,2147,1308,neutral
+147,Pretty decent for the price.,Twitter,India,1803,1456,positive
+148,"Amazing service, will recommend to everyone!",Twitter,India,1059,1085,positive
+149,Pretty decent for the price.,Instagram,USA,3725,1345,positive
+150,Would not buy again.,Facebook,UK,2904,1458,negative
+151,Neutral feelings about this.,Facebook,India,1126,872,neutral
+152,Outstanding performance!,Twitter,Australia,4124,664,positive
+153,Could be better.,Twitter,UK,4301,521,neutral
+154,Fantastic effort by the team!,Facebook,India,4649,1145,positive
+155,Pretty decent for the price.,Twitter,India,1898,403,positive
+156,Neutral feelings about this.,Facebook,USA,438,1764,neutral
+157,Neutral feelings about this.,Instagram,Canada,3193,1722,neutral
+158,Totally disappointed with the quality.,Instagram,Canada,744,486,negative
+159,"It's okay, nothing special.",Twitter,UK,4024,1699,neutral
+160,Fantastic effort by the team!,Instagram,Australia,783,1776,positive
+161,Worst experience ever.,Twitter,Canada,659,1689,negative
+162,Would not buy again.,Twitter,UK,2301,552,negative
+163,Fantastic effort by the team!,Instagram,India,2736,945,positive
+164,Neutral feelings about this.,Instagram,Canada,2136,751,neutral
+165,Worst experience ever.,Instagram,UK,2222,1049,negative
+166,Outstanding performance!,Instagram,Australia,4557,1629,positive
+167,Worst experience ever.,Instagram,Canada,4202,200,negative
+168,Outstanding performance!,Facebook,India,893,12,positive
+169,Totally disappointed with the quality.,Instagram,USA,4406,1409,negative
+170,Outstanding performance!,Facebook,Australia,3670,1282,positive
+171,I love this product!,Twitter,India,3793,272,positive
+172,Totally disappointed with the quality.,Instagram,UK,3470,1080,negative
+173,Neutral feelings about this.,Twitter,UK,3442,1637,neutral
+174,Totally disappointed with the quality.,Facebook,India,661,1020,negative
+175,Pretty decent for the price.,Facebook,India,4638,1888,positive
+176,"It's okay, nothing special.",Twitter,Canada,2998,169,neutral
+177,Totally disappointed with the quality.,Facebook,Canada,1227,1506,negative
+178,Fantastic effort by the team!,Facebook,USA,4351,1741,positive
+179,Highly recommend!,Twitter,India,753,341,positive
+180,I love this product!,Twitter,UK,115,63,positive
+181,Outstanding performance!,Instagram,India,586,1832,positive
+182,Pretty decent for the price.,Facebook,India,4251,770,positive
+183,"It's okay, nothing special.",Twitter,UK,4617,1747,neutral
+184,Totally disappointed with the quality.,Twitter,Australia,1919,548,negative
+185,Highly recommend!,Twitter,Canada,2235,863,positive
+186,Totally disappointed with the quality.,Instagram,USA,3933,1971,negative
+187,Could be better.,Instagram,UK,3066,337,neutral
+188,Totally disappointed with the quality.,Facebook,Canada,1850,687,negative
+189,"It's okay, nothing special.",Twitter,India,1278,1140,neutral
+190,"It's okay, nothing special.",Instagram,Australia,2091,1626,neutral
+191,Could be better.,Instagram,UK,1480,113,neutral
+192,Outstanding performance!,Facebook,UK,424,1687,positive
+193,Would not buy again.,Instagram,India,3682,1891,negative
+194,Neutral feelings about this.,Twitter,Canada,4130,267,neutral
+195,"Amazing service, will recommend to everyone!",Facebook,UK,2707,1659,positive
+196,Pretty decent for the price.,Facebook,USA,3626,1351,positive
+197,Worst experience ever.,Twitter,USA,1885,378,negative
+198,Neutral feelings about this.,Instagram,Australia,4514,1968,neutral
+199,I love this product!,Twitter,India,93,1339,positive
+200,Pretty decent for the price.,Instagram,USA,2069,852,positive
+201,Neutral feelings about this.,Twitter,India,747,1035,neutral
+202,Could be better.,Facebook,India,3324,1914,neutral
+203,Worst experience ever.,Twitter,India,2789,917,negative
+204,"Amazing service, will recommend to everyone!",Twitter,Australia,2446,1630,positive
+205,Would not buy again.,Instagram,USA,2831,1440,negative
+206,"Amazing service, will recommend to everyone!",Facebook,India,1677,1056,positive
+207,Highly recommend!,Twitter,UK,2670,716,positive
+208,Outstanding performance!,Facebook,Canada,4052,598,positive
+209,Could be better.,Facebook,UK,3629,1262,neutral
+210,"Amazing service, will recommend to everyone!",Facebook,Canada,1433,1067,positive
+211,Would not buy again.,Facebook,Australia,2426,1375,negative
+212,I love this product!,Twitter,UK,4646,739,positive
+213,Could be better.,Twitter,India,783,557,neutral
+214,Highly recommend!,Twitter,USA,978,172,positive
+215,Totally disappointed with the quality.,Twitter,USA,773,1045,negative
+216,Pretty decent for the price.,Twitter,UK,945,1279,positive
+217,Highly recommend!,Facebook,Australia,394,467,positive
+218,Outstanding performance!,Instagram,India,2133,1709,positive
+219,"It's okay, nothing special.",Facebook,USA,5,1509,neutral
+220,Would not buy again.,Instagram,Australia,2923,1900,negative
+221,Highly recommend!,Instagram,Canada,4280,602,positive
+222,Worst experience ever.,Instagram,UK,1826,1386,negative
+223,"It's okay, nothing special.",Facebook,Canada,2942,1376,neutral
+224,I love this product!,Twitter,Australia,3973,388,positive
+225,Fantastic effort by the team!,Twitter,Australia,440,1563,positive
+226,I love this product!,Twitter,India,1699,1379,positive
+227,I love this product!,Twitter,India,397,1173,positive
+228,"Amazing service, will recommend to everyone!",Twitter,Australia,1658,886,positive
+229,Would not buy again.,Facebook,India,3036,852,negative
+230,"Amazing service, will recommend to everyone!",Instagram,India,2651,243,positive
+231,Totally disappointed with the quality.,Facebook,Canada,1496,345,negative
+232,Neutral feelings about this.,Facebook,USA,969,283,neutral
+233,Outstanding performance!,Facebook,UK,2755,1159,positive
+234,"Amazing service, will recommend to everyone!",Twitter,USA,1777,1049,positive
+235,Highly recommend!,Facebook,Australia,268,1233,positive
+236,Totally disappointed with the quality.,Facebook,Canada,2250,1341,negative
+237,"Amazing service, will recommend to everyone!",Instagram,USA,1778,741,positive
+238,"Amazing service, will recommend to everyone!",Twitter,USA,4523,88,positive
+239,Highly recommend!,Twitter,UK,2219,444,positive
+240,Fantastic effort by the team!,Instagram,Australia,1498,1401,positive
+241,Neutral feelings about this.,Twitter,Canada,1355,691,neutral
+242,Worst experience ever.,Instagram,Canada,4918,1467,negative
+243,Would not buy again.,Instagram,UK,74,1464,negative
+244,"Amazing service, will recommend to everyone!",Facebook,Australia,663,687,positive
+245,Pretty decent for the price.,Instagram,Australia,3851,499,positive
+246,Fantastic effort by the team!,Facebook,UK,4950,1016,positive
+247,Pretty decent for the price.,Facebook,Australia,1493,609,positive
+248,Would not buy again.,Facebook,India,1842,1379,negative
+249,"It's okay, nothing special.",Twitter,Australia,3766,487,neutral
+250,"Amazing service, will recommend to everyone!",Instagram,Canada,4928,1410,positive
+251,"Amazing service, will recommend to everyone!",Instagram,Canada,3927,1849,positive
+252,Worst experience ever.,Facebook,Australia,2236,385,negative
+253,Highly recommend!,Facebook,Australia,1124,1417,positive
+254,Neutral feelings about this.,Facebook,Australia,217,1393,neutral
+255,Neutral feelings about this.,Instagram,UK,546,1617,neutral
+256,Outstanding performance!,Facebook,Canada,1054,1196,positive
+257,"It's okay, nothing special.",Twitter,Canada,208,1188,neutral
+258,Would not buy again.,Twitter,Australia,3089,976,negative
+259,Fantastic effort by the team!,Facebook,India,619,531,positive
+260,I love this product!,Instagram,UK,4506,240,positive
+261,Highly recommend!,Facebook,Canada,1423,1389,positive
+262,Neutral feelings about this.,Instagram,UK,4253,396,neutral
+263,Fantastic effort by the team!,Instagram,Australia,959,477,positive
+264,"It's okay, nothing special.",Twitter,UK,2066,950,neutral
+265,Fantastic effort by the team!,Instagram,UK,424,1007,positive
+266,I love this product!,Instagram,USA,4455,1883,positive
+267,Totally disappointed with the quality.,Facebook,India,1505,1048,negative
+268,Worst experience ever.,Instagram,India,3424,1790,negative
+269,Would not buy again.,Instagram,USA,3063,1443,negative
+270,I love this product!,Twitter,UK,389,1073,positive
+271,Totally disappointed with the quality.,Facebook,USA,763,1816,negative
+272,Neutral feelings about this.,Instagram,UK,975,43,neutral
+273,Fantastic effort by the team!,Twitter,India,3361,1157,positive
+274,I love this product!,Instagram,Canada,2677,1907,positive
+275,Totally disappointed with the quality.,Instagram,India,339,168,negative
+276,Outstanding performance!,Facebook,Australia,1763,592,positive
+277,Could be better.,Instagram,UK,4466,927,neutral
+278,Neutral feelings about this.,Facebook,Canada,4557,1717,neutral
+279,Would not buy again.,Facebook,India,2756,1218,negative
+280,Highly recommend!,Instagram,UK,4558,1993,positive
+281,Highly recommend!,Facebook,USA,1748,1885,positive
+282,Pretty decent for the price.,Twitter,Australia,1153,1494,positive
+283,Would not buy again.,Instagram,USA,2245,926,negative
+284,I love this product!,Facebook,Canada,4395,312,positive
+285,Worst experience ever.,Instagram,Canada,3357,1850,negative
+286,Highly recommend!,Instagram,Canada,1247,380,positive
+287,"It's okay, nothing special.",Facebook,Australia,2802,1124,neutral
+288,I love this product!,Facebook,UK,4462,613,positive
+289,"Amazing service, will recommend to everyone!",Instagram,India,3590,941,positive
+290,Would not buy again.,Instagram,Canada,781,1344,negative
+291,Outstanding performance!,Instagram,UK,4786,1575,positive
+292,Would not buy again.,Twitter,India,75,1516,negative
+293,Could be better.,Twitter,UK,4071,868,neutral
+294,I love this product!,Twitter,UK,3329,744,positive
+295,"Amazing service, will recommend to everyone!",Twitter,Canada,1540,1493,positive
+296,"Amazing service, will recommend to everyone!",Twitter,USA,3965,793,positive
+297,"It's okay, nothing special.",Facebook,India,2861,1302,neutral
+298,I love this product!,Twitter,India,3041,754,positive
+299,Worst experience ever.,Twitter,India,3428,712,negative
+300,Neutral feelings about this.,Twitter,Australia,429,1235,neutral
+301,Fantastic effort by the team!,Instagram,Australia,1604,1407,positive
+302,Could be better.,Twitter,Australia,269,819,neutral
+303,Pretty decent for the price.,Instagram,Canada,1974,1728,positive
+304,Would not buy again.,Facebook,Canada,2606,428,negative
+305,"Amazing service, will recommend to everyone!",Twitter,India,761,1589,positive
+306,Pretty decent for the price.,Twitter,UK,370,1534,positive
+307,Could be better.,Facebook,UK,449,1335,neutral
+308,Highly recommend!,Facebook,India,3595,857,positive
+309,Neutral feelings about this.,Facebook,Canada,2424,499,neutral
+310,"It's okay, nothing special.",Instagram,USA,3969,1859,neutral
+311,Fantastic effort by the team!,Facebook,Australia,3817,1834,positive
+312,Could be better.,Twitter,India,3684,790,neutral
+313,Could be better.,Facebook,Australia,3848,1798,neutral
+314,Pretty decent for the price.,Facebook,Australia,561,1800,positive
+315,"It's okay, nothing special.",Twitter,USA,4238,1206,neutral
+316,Could be better.,Instagram,India,4973,1147,neutral
+317,Pretty decent for the price.,Instagram,Canada,512,1983,positive
+318,Would not buy again.,Facebook,USA,1672,1154,negative
+319,Pretty decent for the price.,Instagram,UK,1231,500,positive
+320,Outstanding performance!,Facebook,Canada,4212,1655,positive
+321,Worst experience ever.,Instagram,USA,683,255,negative
+322,Neutral feelings about this.,Twitter,Canada,488,1252,neutral
+323,Could be better.,Facebook,India,4455,799,neutral
+324,Could be better.,Twitter,Australia,730,408,neutral
+325,Could be better.,Facebook,USA,4718,625,neutral
+326,"It's okay, nothing special.",Instagram,USA,1035,862,neutral
+327,Neutral feelings about this.,Instagram,Canada,455,516,neutral
+328,Pretty decent for the price.,Twitter,UK,4756,851,positive
+329,I love this product!,Twitter,UK,2257,737,positive
+330,Pretty decent for the price.,Twitter,USA,2383,1546,positive
+331,Pretty decent for the price.,Twitter,Canada,92,219,positive
+332,Worst experience ever.,Instagram,UK,4509,1496,negative
+333,Pretty decent for the price.,Twitter,India,3444,255,positive
+334,Highly recommend!,Twitter,USA,4629,1229,positive
+335,Fantastic effort by the team!,Twitter,India,4766,892,positive
+336,Highly recommend!,Facebook,USA,958,338,positive
+337,Totally disappointed with the quality.,Twitter,UK,4873,1170,negative
+338,Highly recommend!,Instagram,UK,4511,737,positive
+339,Neutral feelings about this.,Instagram,Canada,1645,1148,neutral
+340,Would not buy again.,Instagram,UK,2894,336,negative
+341,Fantastic effort by the team!,Twitter,Canada,4668,791,positive
+342,Pretty decent for the price.,Twitter,UK,3166,493,positive
+343,Totally disappointed with the quality.,Facebook,UK,3681,486,negative
+344,Totally disappointed with the quality.,Facebook,UK,876,675,negative
+345,Highly recommend!,Twitter,Australia,879,781,positive
+346,I love this product!,Instagram,UK,4743,1140,positive
+347,"It's okay, nothing special.",Instagram,Australia,1014,480,neutral
+348,Worst experience ever.,Twitter,USA,1523,1669,negative
+349,Neutral feelings about this.,Instagram,USA,1764,513,neutral
+350,Worst experience ever.,Twitter,UK,74,1647,negative
+351,Totally disappointed with the quality.,Facebook,UK,1192,844,negative
+352,I love this product!,Instagram,Canada,3152,320,positive
+353,"Amazing service, will recommend to everyone!",Facebook,India,4288,976,positive
+354,Pretty decent for the price.,Instagram,USA,260,341,positive
+355,Outstanding performance!,Facebook,Canada,3427,1865,positive
+356,Would not buy again.,Instagram,India,4229,733,negative
+357,Outstanding performance!,Instagram,USA,1186,242,positive
+358,Could be better.,Facebook,Canada,4972,1143,neutral
+359,Would not buy again.,Instagram,Canada,4581,1947,negative
+360,Highly recommend!,Facebook,Canada,1918,761,positive
+361,Would not buy again.,Facebook,Australia,2030,851,negative
+362,Highly recommend!,Facebook,Australia,4982,865,positive
+363,I love this product!,Facebook,UK,1473,72,positive
+364,Pretty decent for the price.,Instagram,Canada,638,1641,positive
+365,Neutral feelings about this.,Facebook,Canada,365,1675,neutral
+366,"It's okay, nothing special.",Twitter,UK,1205,1687,neutral
+367,Fantastic effort by the team!,Twitter,UK,4198,1831,positive
+368,Outstanding performance!,Instagram,Australia,2451,675,positive
+369,Highly recommend!,Instagram,Canada,3975,1365,positive
+370,"It's okay, nothing special.",Facebook,Canada,4573,1443,neutral
+371,Totally disappointed with the quality.,Twitter,Australia,1694,112,negative
+372,Neutral feelings about this.,Instagram,UK,1408,902,neutral
+373,Worst experience ever.,Facebook,India,64,566,negative
+374,Highly recommend!,Facebook,UK,1594,638,positive
+375,Totally disappointed with the quality.,Facebook,India,1785,355,negative
+376,Totally disappointed with the quality.,Facebook,USA,774,1579,negative
+377,Fantastic effort by the team!,Facebook,UK,4467,1788,positive
+378,I love this product!,Twitter,India,3991,787,positive
+379,"It's okay, nothing special.",Twitter,USA,2512,1062,neutral
+380,"Amazing service, will recommend to everyone!",Twitter,Canada,4567,82,positive
+381,Would not buy again.,Instagram,UK,1906,1124,negative
+382,Outstanding performance!,Facebook,India,4958,702,positive
+383,Worst experience ever.,Twitter,USA,2070,908,negative
+384,Outstanding performance!,Facebook,Australia,4995,1600,positive
+385,Outstanding performance!,Instagram,India,1620,902,positive
+386,Fantastic effort by the team!,Twitter,India,1755,327,positive
+387,Highly recommend!,Facebook,Australia,3641,47,positive
+388,Fantastic effort by the team!,Instagram,India,3112,1716,positive
+389,Totally disappointed with the quality.,Twitter,USA,2078,1898,negative
+390,"Amazing service, will recommend to everyone!",Instagram,Canada,2025,1459,positive
+391,Highly recommend!,Twitter,Australia,2393,1116,positive
+392,"It's okay, nothing special.",Twitter,USA,1997,1159,neutral
+393,"Amazing service, will recommend to everyone!",Facebook,Canada,1504,1124,positive
+394,Would not buy again.,Facebook,India,2260,181,negative
+395,Highly recommend!,Facebook,India,4915,1635,positive
+396,Fantastic effort by the team!,Facebook,Australia,3782,264,positive
+397,Totally disappointed with the quality.,Instagram,USA,1608,1433,negative
+398,Totally disappointed with the quality.,Facebook,Australia,2852,160,negative
+399,"It's okay, nothing special.",Instagram,Australia,1408,1948,neutral
+400,Could be better.,Twitter,India,2743,418,neutral
+401,Would not buy again.,Instagram,India,4434,1636,negative
+402,Fantastic effort by the team!,Facebook,Australia,2445,1210,positive
+403,Outstanding performance!,Twitter,India,4080,215,positive
+404,Pretty decent for the price.,Instagram,Australia,1544,1421,positive
+405,Fantastic effort by the team!,Twitter,UK,2483,91,positive
+406,Neutral feelings about this.,Facebook,UK,4539,1884,neutral
+407,Pretty decent for the price.,Facebook,UK,944,1978,positive
+408,Could be better.,Twitter,Canada,3940,154,neutral
+409,Outstanding performance!,Instagram,Canada,4300,840,positive
+410,Worst experience ever.,Facebook,Australia,340,1464,negative
+411,Outstanding performance!,Instagram,UK,4821,1134,positive
+412,Neutral feelings about this.,Twitter,Australia,381,295,neutral
+413,Fantastic effort by the team!,Instagram,India,2471,345,positive
+414,Highly recommend!,Facebook,USA,709,1282,positive
+415,Fantastic effort by the team!,Twitter,India,4334,1301,positive
+416,"Amazing service, will recommend to everyone!",Twitter,India,936,1078,positive
+417,"It's okay, nothing special.",Instagram,Australia,2880,485,neutral
+418,I love this product!,Facebook,UK,445,1771,positive
+419,Highly recommend!,Facebook,Australia,1443,1247,positive
+420,Would not buy again.,Facebook,USA,1469,1991,negative
+421,I love this product!,Twitter,India,3795,1877,positive
+422,"It's okay, nothing special.",Instagram,USA,1121,966,neutral
+423,Neutral feelings about this.,Twitter,UK,567,1579,neutral
+424,Totally disappointed with the quality.,Facebook,Australia,4145,1298,negative
+425,Highly recommend!,Instagram,Canada,1583,640,positive
+426,Totally disappointed with the quality.,Facebook,India,226,744,negative
+427,I love this product!,Instagram,USA,4065,1565,positive
+428,Would not buy again.,Facebook,Canada,3779,224,negative
+429,Fantastic effort by the team!,Twitter,Australia,4005,1288,positive
+430,Would not buy again.,Twitter,UK,2550,676,negative
+431,Would not buy again.,Facebook,Australia,330,1363,negative
+432,I love this product!,Twitter,Canada,4538,1108,positive
+433,Worst experience ever.,Instagram,Australia,1419,543,negative
+434,Would not buy again.,Twitter,Australia,4325,770,negative
+435,"Amazing service, will recommend to everyone!",Twitter,Canada,577,692,positive
+436,"It's okay, nothing special.",Instagram,India,1225,902,neutral
+437,Fantastic effort by the team!,Twitter,USA,1515,148,positive
+438,Could be better.,Twitter,Canada,4955,920,neutral
+439,Pretty decent for the price.,Facebook,India,1540,1496,positive
+440,"It's okay, nothing special.",Instagram,UK,2559,1003,neutral
+441,Would not buy again.,Twitter,USA,4389,426,negative
+442,I love this product!,Twitter,India,60,702,positive
+443,Fantastic effort by the team!,Facebook,India,4430,1495,positive
+444,I love this product!,Facebook,Australia,1119,30,positive
+445,Outstanding performance!,Facebook,UK,3321,504,positive
+446,Pretty decent for the price.,Instagram,Australia,2048,1299,positive
+447,Highly recommend!,Instagram,Canada,4825,1689,positive
+448,Fantastic effort by the team!,Instagram,India,497,1021,positive
+449,Worst experience ever.,Instagram,USA,1257,849,negative
+450,Pretty decent for the price.,Instagram,Australia,1706,1366,positive
+451,I love this product!,Instagram,Canada,2512,256,positive
+452,"It's okay, nothing special.",Instagram,USA,4527,404,neutral
+453,Could be better.,Facebook,Canada,3061,1294,neutral
+454,Outstanding performance!,Instagram,USA,1628,409,positive
+455,Totally disappointed with the quality.,Instagram,India,878,580,negative
+456,"Amazing service, will recommend to everyone!",Facebook,Canada,4599,104,positive
+457,Neutral feelings about this.,Twitter,UK,1795,865,neutral
+458,Fantastic effort by the team!,Twitter,UK,1074,1853,positive
+459,Neutral feelings about this.,Facebook,India,2266,162,neutral
+460,Totally disappointed with the quality.,Facebook,UK,4874,1292,negative
+461,Totally disappointed with the quality.,Twitter,UK,3369,648,negative
+462,Pretty decent for the price.,Instagram,Canada,4578,699,positive
+463,Would not buy again.,Twitter,India,3208,1849,negative
+464,Would not buy again.,Facebook,UK,4053,385,negative
+465,I love this product!,Facebook,Australia,3430,111,positive
+466,Outstanding performance!,Twitter,India,1373,137,positive
+467,"It's okay, nothing special.",Facebook,USA,2017,1065,neutral
+468,Fantastic effort by the team!,Instagram,UK,3444,1714,positive
+469,Pretty decent for the price.,Instagram,USA,2002,167,positive
+470,Neutral feelings about this.,Twitter,India,911,498,neutral
+471,Highly recommend!,Instagram,Australia,4246,601,positive
+472,"Amazing service, will recommend to everyone!",Instagram,UK,4630,355,positive
+473,Would not buy again.,Twitter,UK,568,720,negative
+474,I love this product!,Facebook,UK,308,1707,positive
+475,Neutral feelings about this.,Twitter,USA,1147,1579,neutral
+476,"It's okay, nothing special.",Instagram,Australia,2011,639,neutral
+477,"Amazing service, will recommend to everyone!",Twitter,Canada,1366,1346,positive
+478,I love this product!,Facebook,USA,863,1297,positive
+479,Fantastic effort by the team!,Twitter,UK,55,1177,positive
+480,"Amazing service, will recommend to everyone!",Instagram,Australia,1039,1429,positive
+481,Totally disappointed with the quality.,Instagram,Australia,4775,1702,negative
+482,Fantastic effort by the team!,Facebook,USA,4809,1930,positive
+483,Fantastic effort by the team!,Instagram,Canada,4485,1539,positive
+484,Neutral feelings about this.,Facebook,UK,1490,1574,neutral
+485,"It's okay, nothing special.",Facebook,UK,4306,1233,neutral
+486,Worst experience ever.,Twitter,Canada,1694,1724,negative
+487,"Amazing service, will recommend to everyone!",Facebook,UK,3955,1667,positive
+488,Neutral feelings about this.,Twitter,Canada,1710,1815,neutral
+489,"It's okay, nothing special.",Instagram,USA,2419,718,neutral
+490,Totally disappointed with the quality.,Twitter,India,1775,1958,negative
+491,"It's okay, nothing special.",Twitter,USA,172,1337,neutral
+492,Would not buy again.,Instagram,USA,1429,517,negative
+493,Neutral feelings about this.,Twitter,UK,863,1840,neutral
+494,Outstanding performance!,Facebook,India,479,796,positive
+495,Worst experience ever.,Instagram,India,3803,1578,negative
+496,I love this product!,Facebook,Canada,87,108,positive
+497,Pretty decent for the price.,Instagram,India,4071,443,positive
+498,"Amazing service, will recommend to everyone!",Facebook,UK,666,1144,positive
+499,Could be better.,Instagram,India,2554,889,neutral
+500,"It's okay, nothing special.",Twitter,India,321,1025,neutral
+501,"Amazing service, will recommend to everyone!",Facebook,Australia,4862,1501,positive
+502,Would not buy again.,Facebook,USA,3811,415,negative
+503,Outstanding performance!,Twitter,Australia,827,647,positive
+504,Could be better.,Facebook,Australia,862,1148,neutral
+505,"Amazing service, will recommend to everyone!",Facebook,Canada,2603,1533,positive
+506,"It's okay, nothing special.",Facebook,UK,1617,598,neutral
+507,Pretty decent for the price.,Instagram,India,3683,1508,positive
+508,Outstanding performance!,Facebook,USA,982,445,positive
+509,I love this product!,Instagram,Canada,2851,1689,positive
+510,Neutral feelings about this.,Twitter,UK,1955,1947,neutral
+511,Outstanding performance!,Twitter,India,348,840,positive
+512,Pretty decent for the price.,Facebook,India,1463,1740,positive
+513,Worst experience ever.,Facebook,India,2218,1454,negative
+514,Totally disappointed with the quality.,Twitter,Canada,2930,86,negative
+515,Pretty decent for the price.,Twitter,Australia,2491,1950,positive
+516,"Amazing service, will recommend to everyone!",Instagram,India,3853,1297,positive
+517,Fantastic effort by the team!,Twitter,USA,609,1091,positive
+518,Worst experience ever.,Twitter,UK,2398,1616,negative
+519,Highly recommend!,Twitter,Canada,2739,879,positive
+520,I love this product!,Twitter,Canada,469,279,positive
+521,I love this product!,Facebook,India,2958,1789,positive
+522,Could be better.,Twitter,UK,2159,1562,neutral
+523,Neutral feelings about this.,Facebook,Canada,3371,1785,neutral
+524,Pretty decent for the price.,Instagram,UK,4972,1092,positive
+525,Pretty decent for the price.,Facebook,Australia,748,608,positive
+526,"It's okay, nothing special.",Twitter,UK,4337,3,neutral
+527,Could be better.,Facebook,Canada,3740,409,neutral
+528,Outstanding performance!,Instagram,USA,4206,69,positive
+529,Fantastic effort by the team!,Twitter,India,3184,1541,positive
+530,Neutral feelings about this.,Twitter,India,2257,654,neutral
+531,Totally disappointed with the quality.,Twitter,USA,254,31,negative
+532,"Amazing service, will recommend to everyone!",Instagram,Australia,2986,1612,positive
+533,Could be better.,Facebook,Canada,4267,960,neutral
+534,Neutral feelings about this.,Instagram,UK,2560,1282,neutral
+535,"It's okay, nothing special.",Twitter,Canada,1684,1895,neutral
+536,Outstanding performance!,Instagram,Australia,4341,699,positive
+537,Neutral feelings about this.,Facebook,Canada,1768,923,neutral
+538,Would not buy again.,Facebook,Canada,3030,194,negative
+539,Totally disappointed with the quality.,Instagram,UK,3748,1272,negative
+540,Worst experience ever.,Facebook,Canada,2561,1583,negative
+541,Totally disappointed with the quality.,Twitter,Australia,3369,777,negative
+542,"It's okay, nothing special.",Facebook,Canada,2216,919,neutral
+543,Outstanding performance!,Twitter,India,3883,878,positive
+544,"It's okay, nothing special.",Twitter,UK,1783,1277,neutral
+545,"It's okay, nothing special.",Instagram,India,3022,193,neutral
+546,Pretty decent for the price.,Twitter,USA,4251,1914,positive
+547,Totally disappointed with the quality.,Instagram,UK,1644,49,negative
+548,Outstanding performance!,Twitter,Canada,4405,807,positive
+549,Totally disappointed with the quality.,Facebook,Australia,258,169,negative
+550,I love this product!,Instagram,Canada,3048,1420,positive
+551,"Amazing service, will recommend to everyone!",Instagram,Canada,4306,1639,positive
+552,Pretty decent for the price.,Instagram,USA,38,210,positive
+553,Worst experience ever.,Facebook,Australia,2358,1482,negative
+554,Highly recommend!,Twitter,Canada,4283,1590,positive
+555,Could be better.,Instagram,UK,4007,308,neutral
+556,Totally disappointed with the quality.,Twitter,India,3502,1801,negative
+557,Neutral feelings about this.,Facebook,USA,2695,177,neutral
+558,Would not buy again.,Instagram,India,2079,1117,negative
+559,Pretty decent for the price.,Twitter,UK,4488,1130,positive
+560,Fantastic effort by the team!,Instagram,India,4890,829,positive
+561,Highly recommend!,Facebook,UK,461,494,positive
+562,"It's okay, nothing special.",Instagram,Canada,3534,528,neutral
+563,Pretty decent for the price.,Instagram,Australia,243,1498,positive
+564,Could be better.,Facebook,USA,2720,1656,neutral
+565,"Amazing service, will recommend to everyone!",Facebook,Australia,4842,755,positive
+566,"It's okay, nothing special.",Twitter,Canada,4213,1908,neutral
+567,Totally disappointed with the quality.,Facebook,India,1037,301,negative
+568,I love this product!,Twitter,USA,112,1128,positive
+569,"It's okay, nothing special.",Twitter,India,4034,1709,neutral
+570,Worst experience ever.,Twitter,Canada,1159,437,negative
+571,Pretty decent for the price.,Instagram,UK,910,1255,positive
+572,Outstanding performance!,Facebook,Canada,3262,603,positive
+573,"Amazing service, will recommend to everyone!",Twitter,Canada,4919,1696,positive
+574,Highly recommend!,Facebook,India,1899,751,positive
+575,Would not buy again.,Facebook,India,3808,194,negative
+576,Outstanding performance!,Twitter,Canada,3914,530,positive
+577,Outstanding performance!,Twitter,Australia,3274,1822,positive
+578,Totally disappointed with the quality.,Twitter,Australia,386,1182,negative
+579,Pretty decent for the price.,Twitter,UK,2942,346,positive
+580,Outstanding performance!,Instagram,Australia,161,368,positive
+581,Would not buy again.,Facebook,India,3030,1811,negative
+582,Pretty decent for the price.,Twitter,USA,329,1539,positive
+583,Fantastic effort by the team!,Instagram,Australia,4678,1101,positive
+584,Outstanding performance!,Facebook,UK,1671,999,positive
+585,Pretty decent for the price.,Facebook,USA,663,666,positive
+586,Fantastic effort by the team!,Facebook,India,2038,1809,positive
+587,Outstanding performance!,Facebook,Canada,3508,1890,positive
+588,Neutral feelings about this.,Facebook,USA,115,80,neutral
+589,Pretty decent for the price.,Facebook,USA,1771,1273,positive
+590,Neutral feelings about this.,Twitter,Australia,1051,1846,neutral
+591,Would not buy again.,Twitter,Australia,4342,795,negative
+592,Highly recommend!,Facebook,Canada,3295,1621,positive
+593,"It's okay, nothing special.",Instagram,Australia,4750,520,neutral
+594,Pretty decent for the price.,Twitter,India,708,587,positive
+595,Outstanding performance!,Twitter,Australia,2285,789,positive
+596,Pretty decent for the price.,Twitter,USA,3856,488,positive
+597,I love this product!,Facebook,USA,2568,326,positive
+598,Totally disappointed with the quality.,Instagram,USA,4301,1414,negative
+599,Outstanding performance!,Facebook,Australia,4649,98,positive
+600,Could be better.,Instagram,Australia,469,380,neutral
+601,I love this product!,Facebook,UK,4653,728,positive
+602,Could be better.,Facebook,Australia,943,454,neutral
+603,"It's okay, nothing special.",Facebook,USA,3266,1541,neutral
+604,"Amazing service, will recommend to everyone!",Instagram,UK,103,1643,positive
+605,Outstanding performance!,Facebook,UK,3316,1609,positive
+606,"Amazing service, will recommend to everyone!",Facebook,USA,792,1877,positive
+607,Could be better.,Instagram,Canada,922,1129,neutral
+608,"It's okay, nothing special.",Facebook,Canada,2422,1861,neutral
+609,Pretty decent for the price.,Instagram,UK,2453,1599,positive
+610,Highly recommend!,Facebook,India,4568,779,positive
+611,"Amazing service, will recommend to everyone!",Instagram,Australia,2684,1508,positive
+612,Highly recommend!,Facebook,USA,4731,1556,positive
+613,Would not buy again.,Twitter,USA,164,1237,negative
+614,"Amazing service, will recommend to everyone!",Twitter,Canada,769,1935,positive
+615,I love this product!,Instagram,India,4769,642,positive
+616,Fantastic effort by the team!,Twitter,India,2521,1119,positive
+617,"Amazing service, will recommend to everyone!",Instagram,UK,3217,1626,positive
+618,Outstanding performance!,Instagram,Canada,1572,507,positive
+619,I love this product!,Twitter,India,4006,1771,positive
+620,Highly recommend!,Instagram,Australia,2297,686,positive
+621,Worst experience ever.,Twitter,Canada,47,467,negative
+622,Worst experience ever.,Facebook,Australia,202,48,negative
+623,"It's okay, nothing special.",Twitter,UK,3540,1006,neutral
+624,"It's okay, nothing special.",Instagram,Australia,275,1179,neutral
+625,Worst experience ever.,Instagram,UK,1850,1429,negative
+626,Would not buy again.,Twitter,Australia,3158,952,negative
+627,"It's okay, nothing special.",Facebook,Australia,2274,1786,neutral
+628,Highly recommend!,Twitter,Australia,1497,1587,positive
+629,"It's okay, nothing special.",Twitter,Canada,93,1172,neutral
+630,Could be better.,Instagram,Australia,813,1686,neutral
+631,"It's okay, nothing special.",Instagram,UK,1001,142,neutral
+632,Could be better.,Instagram,Canada,1747,1193,neutral
+633,Worst experience ever.,Facebook,Australia,2287,1050,negative
+634,Fantastic effort by the team!,Facebook,USA,1162,371,positive
+635,Fantastic effort by the team!,Instagram,India,1173,732,positive
+636,Fantastic effort by the team!,Twitter,UK,4300,1783,positive
+637,"Amazing service, will recommend to everyone!",Facebook,Canada,1899,971,positive
+638,Pretty decent for the price.,Twitter,Canada,2450,238,positive
+639,"It's okay, nothing special.",Facebook,Canada,3736,1745,neutral
+640,Could be better.,Twitter,USA,4727,166,neutral
+641,Totally disappointed with the quality.,Twitter,UK,4825,669,negative
+642,"It's okay, nothing special.",Facebook,Canada,2432,571,neutral
+643,Could be better.,Instagram,Canada,3320,71,neutral
+644,Totally disappointed with the quality.,Facebook,Australia,833,819,negative
+645,Would not buy again.,Facebook,India,1276,1590,negative
+646,Fantastic effort by the team!,Twitter,UK,3225,721,positive
+647,I love this product!,Instagram,Australia,63,717,positive
+648,I love this product!,Facebook,UK,2603,1012,positive
+649,"Amazing service, will recommend to everyone!",Facebook,UK,4373,913,positive
+650,Outstanding performance!,Facebook,UK,1703,219,positive
+651,Pretty decent for the price.,Facebook,India,4461,874,positive
+652,Outstanding performance!,Twitter,Canada,1177,1674,positive
+653,Pretty decent for the price.,Twitter,UK,4716,482,positive
+654,Highly recommend!,Twitter,Canada,4261,1398,positive
+655,Worst experience ever.,Twitter,India,14,1821,negative
+656,Could be better.,Instagram,UK,321,1194,neutral
+657,I love this product!,Twitter,Australia,4321,830,positive
+658,Would not buy again.,Twitter,UK,3459,617,negative
+659,Fantastic effort by the team!,Facebook,UK,2527,1453,positive
+660,Neutral feelings about this.,Twitter,Australia,1714,683,neutral
+661,Fantastic effort by the team!,Instagram,Canada,44,1400,positive
+662,Would not buy again.,Instagram,UK,4157,32,negative
+663,"Amazing service, will recommend to everyone!",Instagram,USA,3136,262,positive
+664,I love this product!,Instagram,Canada,687,434,positive
+665,Could be better.,Facebook,UK,3322,242,neutral
+666,Would not buy again.,Facebook,UK,4002,616,negative
+667,Pretty decent for the price.,Facebook,India,3434,1309,positive
+668,Pretty decent for the price.,Facebook,USA,3163,1881,positive
+669,Fantastic effort by the team!,Facebook,UK,3169,1029,positive
+670,Could be better.,Facebook,UK,888,1826,neutral
+671,Neutral feelings about this.,Facebook,UK,368,157,neutral
+672,"Amazing service, will recommend to everyone!",Instagram,UK,1559,1403,positive
+673,I love this product!,Instagram,Canada,4910,718,positive
+674,Would not buy again.,Facebook,USA,2919,108,negative
+675,Totally disappointed with the quality.,Facebook,UK,2840,52,negative
+676,"Amazing service, will recommend to everyone!",Facebook,Australia,301,1506,positive
+677,Could be better.,Instagram,Australia,598,255,neutral
+678,Fantastic effort by the team!,Twitter,USA,0,1151,positive
+679,Pretty decent for the price.,Twitter,Canada,1011,577,positive
+680,"It's okay, nothing special.",Instagram,Australia,4118,79,neutral
+681,Fantastic effort by the team!,Instagram,India,3691,207,positive
+682,Could be better.,Instagram,UK,3593,1732,neutral
+683,"It's okay, nothing special.",Twitter,India,1125,1006,neutral
+684,Fantastic effort by the team!,Facebook,USA,2633,1368,positive
+685,Could be better.,Twitter,Canada,2163,1120,neutral
+686,Would not buy again.,Facebook,USA,2466,1230,negative
+687,Worst experience ever.,Instagram,Australia,70,1627,negative
+688,Pretty decent for the price.,Instagram,India,2187,1997,positive
+689,Fantastic effort by the team!,Instagram,Canada,4406,797,positive
+690,Pretty decent for the price.,Facebook,Canada,316,1053,positive
+691,Fantastic effort by the team!,Twitter,India,1817,605,positive
+692,"Amazing service, will recommend to everyone!",Twitter,USA,2933,16,positive
+693,Fantastic effort by the team!,Facebook,USA,3544,397,positive
+694,"Amazing service, will recommend to everyone!",Twitter,USA,3321,1866,positive
+695,"Amazing service, will recommend to everyone!",Twitter,UK,1698,1210,positive
+696,Could be better.,Facebook,USA,164,602,neutral
+697,"Amazing service, will recommend to everyone!",Instagram,UK,2790,1470,positive
+698,Totally disappointed with the quality.,Facebook,India,2212,790,negative
+699,Outstanding performance!,Twitter,Australia,2610,144,positive
+700,Outstanding performance!,Twitter,Australia,2656,1054,positive
