@@ -11,7 +11,7 @@ This repository contains a Shiny-based web application designed to analyze and p
 
 - **Sentiment Prediction Model**: Classifies text data into positive, negative, or neutral sentiment based on advanced Machine Learning(ML) techniques.  
 - **Interactive Visualization**:  
-  - Word clouds, bar graphs, and time-series plots for sentiment trends.  
+  - 3D Graphs, bar graphs, and time-series plots for sentiment trends.  
   - Dynamic visuals to gain actionable insights.  
 - **User Authentication**:  
   - Secure Google-based login and logout system.  
@@ -66,7 +66,11 @@ The application uses the following parameters for sentiment analysis:
 - **Data Visualization**:  
   - Explore word clouds and sentiment trends with interactive visualizations.  
   - Identify spikes in sentiment over time or across platforms.  
-- **Secure Access**: Google login ensures secure user authentication for app usage.  
+- **Secure Access**: Google login ensures secure user authentication for app usage.
+
+  ## ER Diagram
+
+  
 
 ## Future Work  
 
