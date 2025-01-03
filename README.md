@@ -78,6 +78,10 @@ The application uses the following parameters for sentiment analysis:
 
 
 
+  ## Mind-Map:
+
+  ![image](https://github.com/user-attachments/assets/2bc0596a-e762-4a37-87d8-e46f5c542297)
+
 ## WEBSITE :
 
 
