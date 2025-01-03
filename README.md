@@ -67,7 +67,7 @@ The application uses the following parameters for sentiment analysis:
 
 - **Sentiment Prediction**: Upload a CSV of social media posts to predict sentiment categories (positive, negative, or neutral).  
 - **Data Visualization**:  
-  - Explore word clouds and sentiment trends with interactive visualizations.  
+  - Explore 3D Graphs and sentiment trends with interactive visualizations.  
   - Identify spikes in sentiment over time or across platforms.  
 - **Secure Access**: Google login ensures secure user authentication for app usage.
 
