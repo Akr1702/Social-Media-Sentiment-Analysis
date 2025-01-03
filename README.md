@@ -1,7 +1,10 @@
 
 # Social Media Sentiment Analysis Web App  
 
-![Social Media Sentiment Analysis Web App]
+[Social Media Sentiment Analysis Web App]
+
+
+![54bcc95b-043b-428a-9570-12e1409877b7](https://github.com/user-attachments/assets/065a14e6-b02c-465c-89aa-55fed3451f78)
 
 ## Overview  
 
@@ -73,6 +76,17 @@ The application uses the following parameters for sentiment analysis:
   
 ![image-Photoroom](https://github.com/user-attachments/assets/21941cea-2beb-41c2-a623-871977307f6e)
 
+
+
+## WEBSITE :
+
+
+![WhatsApp Image 2025-01-03 at 22 33 07_6984d542](https://github.com/user-attachments/assets/77340577-2f77-4888-a423-05f6d191a275)
+
+## POWER_BI :
+
+![WhatsApp Image 2025-01-03 at 20 08 36_c60e2791](https://github.com/user-attachments/assets/c0ac1963-f37f-494a-a5f7-43a9c6bbed90)
+
 ## Future Work  
 
 - Integration of real-time social media APIs (e.g., Twitter API, Facebook Graph API).  
@@ -86,6 +100,7 @@ This project was developed to empower organizations and individuals in understan
 ## Contact  
 
 For any queries or contributions, please contact:  
-
+- **Ankit Kumar Khimaram Luhar**
+- Email : [ankitluhar123@gmail.com](mailto:ankitluhar123@gmail.com)
 - **Ankit Kumar Rai**  
 - Email: [ankitkumarrai1702@gmail.com](mailto:ankitkumarrai1702@gmail.com)
